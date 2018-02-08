@@ -8,6 +8,7 @@ NLP 基礎操作
 1. 用 snownlp 跑一遍，開始了解 word 的分佈
 1. TF-IDF 演算法: keyword weighting
   https://www.google.com.tw/search?&q=TF-IDF+python
+  * [解釋： TF-IDF 是什麼？](http://billchambers.me/tutorials/2014/12/21/tf-idf-explained-in-python.html)
 1. 做 grouping（我們需要自己開始定義類別）
 1. 比較跟著某個緯度（e.g. 時間, 作者） grouping 之間 的變化
 1. 視覺化！
